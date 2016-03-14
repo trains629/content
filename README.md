@@ -105,4 +105,4 @@ B.extensions，将预定义的JS代码注册到context中，并且一旦注册�
     frame->ExecuteJavaScript("alert('ExecuteJavaScript works!');",  
         frame->GetURL(), 0);  
         
-        
+https://bitbucket.org/chromiumembedded/cef/wiki/JavaScriptIntegration        
